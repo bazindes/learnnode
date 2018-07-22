@@ -9,7 +9,6 @@ function add(){
 }
 
 console.log(add());
-console.log(add.plus());
 console.log(add());
 console.log(add());
 
